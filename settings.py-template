@@ -1,0 +1,21 @@
+mysql=(
+	{ "mysql_host":"localhost",
+	  "mysql_user":"user",
+	  "mysql_password":"senha",
+ 	  "mysql_database":"banco"
+	}, 
+	{ "mysql_host":"remotedb",
+	  "mysql_user":"user2",
+	  "mysql_password":"senha",
+ 	  "mysql_database":"banco"
+	})
+
+site_url="http://"
+xmpp_user="user_jabber"
+xmpp_host="jabbber.org" 
+xmpp_password="senha"
+xmpp_port="5222"
+email="email@example.com"
+
+tasks=( "mysql_check",
+)

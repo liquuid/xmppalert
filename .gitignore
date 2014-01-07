@@ -1,0 +1,12 @@
+*pyc
+*~
+settings.py
+*.swp
+*.swo
+*.db
+.DS_Store
+.idea/
+.project
+.pydevproject
+Session.vim
+env/
