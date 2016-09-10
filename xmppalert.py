@@ -2,7 +2,6 @@
 
 import xmpp
 import os
-import sys
 import socket
 import settings
 import tasks.mysqlcheck
